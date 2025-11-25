@@ -52,6 +52,60 @@ const FRUIT_FACTS = {
       "Supports skin health"
     ],
     season: "Peak season from November to March"
+  },
+  cherry: {
+    nutrition: {
+      calories: "63 kcal",
+      fiber: "2g",
+      vitamin_c: "12% DV"
+    },
+    facts: [
+      "Cherries are part of the rose family and grow in clusters",
+      "Montmorency cherries are famous for natural sleep support",
+      "The world records for cherry pit spitting exceed 90 feet"
+    ],
+    benefits: [
+      "Rich in antioxidants that protect cells",
+      "Natural source of melatonin for better sleep",
+      "Helps reduce post-workout soreness"
+    ],
+    season: "Best from May through July"
+  },
+  strawberry: {
+    nutrition: {
+      calories: "49 kcal",
+      fiber: "3g",
+      vitamin_c: "97% DV"
+    },
+    facts: [
+      "Strawberries are the only fruit with seeds on the outside",
+      "They belong to the same family as roses",
+      "Ancient Romans believed strawberries had medicinal powers"
+    ],
+    benefits: [
+      "Supports immune health with high vitamin C",
+      "Promotes healthy skin thanks to antioxidants",
+      "Naturally low in sugar for guilt-free snacking"
+    ],
+    season: "Peak season from April to June"
+  },
+  blueberry: {
+    nutrition: {
+      calories: "57 kcal",
+      fiber: "2.4g",
+      vitamin_c: "16% DV"
+    },
+    facts: [
+      "Blueberries were called 'star berries' by Native Americans",
+      "They are one of the few naturally blue foods",
+      "A single bush can produce up to 6,000 berries yearly"
+    ],
+    benefits: [
+      "Brain-boosting antioxidants support memory",
+      "Supports heart health with anthocyanins",
+      "Helps balance blood sugar levels"
+    ],
+    season: "Best harvested from June to August"
   }
 };
 
